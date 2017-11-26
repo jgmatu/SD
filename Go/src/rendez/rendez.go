@@ -17,7 +17,6 @@ type appointmentsProtected struct {
 var apsProt = appointmentsProtected{sync.Mutex{}, make(map[int]*appointment)}
 
 func Rendezvous(tag int, val interface{}) (coupleVal interface{}) {
-
 	apsProt.mut.Lock()
 	if a, ok := apsProt.aps[tag]; !ok {
 		a = &appointment{val, sync.WaitGroup{}} // New appointment!!...

@@ -1,0 +1,3 @@
+{"c":1} C: I am having dinner...
+{"a":3,"b":3,"c":2} Message Received : B: We go to the cinema!
+{"a":3,"b":3,"c":3} Message Send : C: I can go!!

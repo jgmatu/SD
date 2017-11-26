@@ -1,0 +1,7 @@
+{"a":1} Hey!
+{"a":2} Message Send : Dinner!
+{"a":3} Cool!
+{"a":4} Arg!
+{"a":5} kk
+{"a":6,"b":5,"c":5,"d":5} Message Received : I Love You!
+{"a":7,"b":5,"c":5,"d":5} Exit

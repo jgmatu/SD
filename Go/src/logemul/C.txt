@@ -1,0 +1,7 @@
+{"c":1} Lets!
+{"c":2} Bored!
+{"c":3} Very Bored!
+{"a":2,"b":5,"c":4} Message Received : Din!
+{"a":2,"b":5,"c":5} Message Send : Go to Dinner!
+{"a":2,"b":5,"c":6} Wake!
+{"a":2,"b":5,"c":7} Exit!

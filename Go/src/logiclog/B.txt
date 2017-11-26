@@ -1,0 +1,3 @@
+{"b":1} B: I am playing computer...
+{"a":3,"b":2} Message Received : A: Shall we go to the cinema.
+{"a":3,"b":3} Message Send : B: We go to the cinema!

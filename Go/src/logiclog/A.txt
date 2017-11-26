@@ -1,0 +1,4 @@
+{"a":1} A: Hi!
+{"a":2} A: I am bored...
+{"a":3} Message Send : A: Shall we go to the cinema.
+{"a":4,"b":3,"c":3} Message Received : C: I can go!!

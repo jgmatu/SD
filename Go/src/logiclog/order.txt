@@ -1,0 +1,10 @@
+{"a":1} A: Hi!
+{"a":2} A: I am bored...
+{"a":3} Message Send : A: Shall we go to the cinema.
+{"b":1} B: I am playing computer...
+{"a":3,"b":2} Message Received : A: Shall we go to the cinema.
+{"a":3,"b":3} Message Send : B: We go to the cinema!
+{"c":1} C: I am having dinner...
+{"a":3,"b":3,"c":2} Message Received : B: We go to the cinema!
+{"a":3,"b":3,"c":3} Message Send : C: I can go!!
+{"a":4,"b":3,"c":3} Message Received : C: I can go!!
